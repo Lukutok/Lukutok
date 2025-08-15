@@ -7,7 +7,7 @@ I'm a data analyst from Russia.
 - I'm a big fan of math and programming;
 
 ______________
-####  :pushpin: Portfolio
+###  :pushpin: Portfolio
 | Проект | Описание| Стек |
 |----------|----------|----------|
 |[Анализ вакансий HH.ru](https://github.com/Lukutok/Job_analysis_hh)| Сравнительный анализ вакансий, размещенных на HH.ru, аналитиков данных и системных аналитиков. Определены: стек технологий, зарплатные ожидания, топ городов и грейды, требуемые работодателем.|Python, pandas, seaborn, matplotlib, phik, scipy|
