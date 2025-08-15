@@ -3,7 +3,7 @@
 
 I'm a data analyst from Russia.
 
-- My main goal is find a job as a data analyst;
+- My main goal is to find a job as a data analyst;
 - I'm a big fan of math and programming;
 
 ______________
